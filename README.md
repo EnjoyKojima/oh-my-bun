@@ -1,2 +1,2 @@
 # oh-my-bun
-BunのDocker環境
+バリ簡単なBunのDocker環境

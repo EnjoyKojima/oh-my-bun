@@ -1,0 +1,10 @@
+services:
+  big-bun:
+    image: jarredsumner/bun:latest
+    volumes:
+      - ./app:/app
+    
+    ports:
+      - 3000:3000
+    working_dir: /app
+
